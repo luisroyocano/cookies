@@ -1,0 +1,36 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight : bolder;
+}
+
+div{
+    border: 2px solid black;
+    border-radius: 2px;
+    display: list-item;
+    width: 25%;
+    position: relative;
+    padding: 10px;
+}
+
+label{
+    padding: 0 10px;
+}
+
+input{
+    border: 1px solid grey;
+}
+.form{
+    margin-top: 10px;
+    background-color: rgb(211, 226, 231);
+}
+
+.button{
+    width: 75px;
+    height: 25px;
+    background: lightgrey;
+    color: black;
+    font-weight: bolder;
+    font-size: 20px;
+    border-radius: 5px;
+}
+

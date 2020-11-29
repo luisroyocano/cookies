@@ -1,0 +1,10 @@
+{
+    "es":{
+            "password":"ContraseÃ±a",
+            "name": "Nombre"
+    },
+    "en":{
+            "password":"Password",
+            "name":"Name"
+    }
+}
